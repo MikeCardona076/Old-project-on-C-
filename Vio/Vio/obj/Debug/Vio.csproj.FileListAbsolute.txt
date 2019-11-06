@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\Vio\Vio\obj\Debug\Vio.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\Vio\Vio\obj\Debug\Vio.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\Vio\Vio\bin\Debug\Vio.exe.config
+C:\Users\Mike Cardona\source\repos\Vio\Vio\bin\Debug\Vio.exe
+C:\Users\Mike Cardona\source\repos\Vio\Vio\bin\Debug\Vio.pdb
+C:\Users\Mike Cardona\source\repos\Vio\Vio\obj\Debug\Vio.exe
+C:\Users\Mike Cardona\source\repos\Vio\Vio\obj\Debug\Vio.pdb

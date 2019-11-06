@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\tabla\tabla\bin\Debug\tabla.exe.config
+C:\Users\Mike Cardona\source\repos\tabla\tabla\bin\Debug\tabla.exe
+C:\Users\Mike Cardona\source\repos\tabla\tabla\bin\Debug\tabla.pdb
+C:\Users\Mike Cardona\source\repos\tabla\tabla\obj\Debug\tabla.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\tabla\tabla\obj\Debug\tabla.exe
+C:\Users\Mike Cardona\source\repos\tabla\tabla\obj\Debug\tabla.pdb
+C:\Users\Mike Cardona\source\repos\tabla\tabla\obj\Debug\tabla.csprojAssemblyReference.cache

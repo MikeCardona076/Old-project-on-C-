@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\clase10\clase10\bin\Debug\clase10.exe.config
+C:\Users\Mike Cardona\source\repos\clase10\clase10\bin\Debug\clase10.exe
+C:\Users\Mike Cardona\source\repos\clase10\clase10\bin\Debug\clase10.pdb
+C:\Users\Mike Cardona\source\repos\clase10\clase10\obj\Debug\clase10.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\clase10\clase10\obj\Debug\clase10.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\clase10\clase10\obj\Debug\clase10.exe
+C:\Users\Mike Cardona\source\repos\clase10\clase10\obj\Debug\clase10.pdb

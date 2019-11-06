@@ -1,0 +1,6 @@
+C:\Users\Mike Cardona\source\repos\rapido\rapido\bin\Debug\rapido.exe.config
+C:\Users\Mike Cardona\source\repos\rapido\rapido\bin\Debug\rapido.exe
+C:\Users\Mike Cardona\source\repos\rapido\rapido\bin\Debug\rapido.pdb
+C:\Users\Mike Cardona\source\repos\rapido\rapido\obj\Debug\rapido.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\rapido\rapido\obj\Debug\rapido.exe
+C:\Users\Mike Cardona\source\repos\rapido\rapido\obj\Debug\rapido.pdb

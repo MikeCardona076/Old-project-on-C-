@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\bin\Debug\tarea 4.exe.config
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\bin\Debug\tarea 4.exe
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\bin\Debug\tarea 4.pdb
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\obj\Debug\tarea 4.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\obj\Debug\tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\obj\Debug\tarea 4.exe
+C:\Users\Mike Cardona\source\repos\tarea 4\tarea 4\obj\Debug\tarea 4.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\bin\Debug\mike el dios.exe.config
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\bin\Debug\mike el dios.exe
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\bin\Debug\mike el dios.pdb
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\obj\Debug\mike el dios.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\obj\Debug\mike el dios.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\obj\Debug\mike el dios.exe
+C:\Users\Mike Cardona\source\repos\mike el dios\mike el dios\obj\Debug\mike el dios.pdb

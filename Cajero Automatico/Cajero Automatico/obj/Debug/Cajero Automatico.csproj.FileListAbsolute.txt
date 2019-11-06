@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe.config
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.exe
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\bin\Debug\Cajero Automatico.pdb
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.exe
+C:\Users\Mike Cardona\source\repos\Cajero Automatico\Cajero Automatico\obj\Debug\Cajero Automatico.pdb

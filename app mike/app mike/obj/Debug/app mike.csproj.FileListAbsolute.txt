@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\app mike\app mike\obj\Debug\app mike.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\app mike\app mike\obj\Debug\app mike.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\app mike\app mike\bin\Debug\app mike.exe.config
+C:\Users\Mike Cardona\source\repos\app mike\app mike\bin\Debug\app mike.exe
+C:\Users\Mike Cardona\source\repos\app mike\app mike\bin\Debug\app mike.pdb
+C:\Users\Mike Cardona\source\repos\app mike\app mike\obj\Debug\app mike.exe
+C:\Users\Mike Cardona\source\repos\app mike\app mike\obj\Debug\app mike.pdb

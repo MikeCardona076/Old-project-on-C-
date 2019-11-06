@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\bin\Debug\tercera clase.exe.config
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\bin\Debug\tercera clase.exe
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\bin\Debug\tercera clase.pdb
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\obj\Debug\tercera clase.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\obj\Debug\tercera clase.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\obj\Debug\tercera clase.exe
+C:\Users\Mike Cardona\source\repos\tercera clase\tercera clase\obj\Debug\tercera clase.pdb

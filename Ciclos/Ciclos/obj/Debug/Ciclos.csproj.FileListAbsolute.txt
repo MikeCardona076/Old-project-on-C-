@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\Mike Cardona\source\repos\Ciclos\Ciclos\obj\Debug\Ciclos.pdb

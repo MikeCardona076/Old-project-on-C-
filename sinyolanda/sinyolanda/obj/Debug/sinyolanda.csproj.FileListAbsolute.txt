@@ -1,0 +1,7 @@
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\bin\Debug\sinyolanda.exe.config
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\bin\Debug\sinyolanda.exe
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\bin\Debug\sinyolanda.pdb
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\obj\Debug\sinyolanda.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\obj\Debug\sinyolanda.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\obj\Debug\sinyolanda.exe
+C:\Users\Mike Cardona\source\repos\sinyolanda\sinyolanda\obj\Debug\sinyolanda.pdb

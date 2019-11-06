@@ -1,0 +1,10 @@
+C:\Users\Mike Cardona\source\repos\Base\Base\bin\Debug\Base.exe.config
+C:\Users\Mike Cardona\source\repos\Base\Base\bin\Debug\Base.exe
+C:\Users\Mike Cardona\source\repos\Base\Base\bin\Debug\Base.pdb
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.csprojAssemblyReference.cache
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.Form1.resources
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.csproj.GenerateResource.cache
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.exe
+C:\Users\Mike Cardona\source\repos\Base\Base\obj\Debug\Base.pdb
